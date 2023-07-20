@@ -1,4 +1,4 @@
-#Android host file - Adaway
+127.0.0.1 #Android host file - Adaway
 #
 # Title: ABPVN List
 # Updated: 19 Jul 2023 10:23 UTC+7
